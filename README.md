@@ -24,3 +24,9 @@ Why would these regions be of interest? Because they contain regulatory regions 
 help turn genes on and off.  These regions, often conserved across evolution, are 
 tuned to enable the binding of specific proteins that can kick-start the process of 
 transcription. 
+
+- - -
+Run the text.py file
+
+WILL NOT WORK because…
+github will not allow me to upload the 151MB file selChroms_mm9.fa.zip 
